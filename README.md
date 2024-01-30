@@ -8,3 +8,5 @@
 
 Решение:
 ![1](https://github.com/natalykozhevnikova/Seminar_6_Unit_tests/blob/main/u1.jpg)
+Сгенерируйте отчет о покрытии кода тестами. Ваша цель - достичь минимум 90% покрытия.
+Решение:
